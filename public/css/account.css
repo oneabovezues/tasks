@@ -1,0 +1,49 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    
+    } 
+
+.banner{
+    min-width: 100%;
+    background-color: aqua;
+    font-size: 50px;
+    background-size: cover;
+}
+.homelink{
+    color: beige;
+}
+
+.avatar{
+    padding-top: 5px;
+    margin-left: 1100px;
+    height: 50px;
+    width: 50px;
+    border-radius: 50px;
+}
+
+h1{
+    font-size: 80px;
+}
+
+th{
+    text-align: left;
+    padding: 20px;
+}
+
+form{
+    margin-top: -180px;
+}
+
+input{
+    border: none;
+    font-size: 20px;
+    background-color: rgb(226, 222, 222);
+}
+
+
+.moreinfo{
+    margin-top: 30px;
+    margin-left: 1000px;
+}

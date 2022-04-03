@@ -1,0 +1,54 @@
+.main{
+    background-color: white;
+    margin-top: 100px;
+    margin-left: 32%;
+    height: 400px;
+    width: 350px;
+    border: 1px solid rgb(185, 178, 178);
+    border-radius: 5px;
+}
+
+body{
+    background-color: rgb(99, 125, 240);
+    font-family: sans-serif;
+}
+
+.title{
+    text-align: center;
+    font-size: 40px;
+    border: 1px solid rgb(185, 178, 178);
+    border-radius: 5px;
+}
+form{
+    padding-left: 10px;
+    padding-top: 40px;
+}
+
+form span{
+    
+    font-size: 25px;
+}
+form input{
+    
+    width: 300px;
+    font-size: 20px;
+}
+
+form button{
+    margin-top: 50px;
+    margin-left: -10px;
+    width: 350px;
+    font-size: 20px;
+}
+
+.pass{
+    margin-top: 20px;
+}
+
+.error{
+    text-align: center;
+} 
+
+.err{
+    text-align: center;
+}

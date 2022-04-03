@@ -1,0 +1,39 @@
+body {
+    background-color: rgb(99, 125, 240);
+}
+
+.main {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.header span.title {
+    font-style: bold;
+    margin-left: 10%;
+    font-size: 40px;
+    color: white;
+}
+
+.header span.Signup {
+    border: 1px solid rgb(206, 206, 28);
+    border-radius: 5px;
+    font-size: 30px;
+    color: white;
+    color: rgb(206, 206, 28);
+}
+
+.header span.Signups {
+    margin-left: 50%;
+}
+
+.header span.Login {
+    font-size: 30px;
+    border-radius: 5px;
+    border: 1px solid rgb(206, 206, 28);
+    color: rgb(206, 206, 28);
+}
+
+.header span.logins {
+    margin-right: 2%;
+    margin-left: 5%;
+}
+

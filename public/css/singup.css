@@ -1,0 +1,55 @@
+.form {
+    background-color: white;
+    height: 500px;
+    width: 400px;
+    margin-top: 5%;
+    margin-left: 33%;
+    border: 1px solid rgb(165, 162, 162);
+    border-radius: 5px;
+}
+
+body {
+    background-color: rgb(99, 125, 240);
+}
+
+.signuptext {
+    margin-top: -2px;
+    font-size: 30px;
+    padding-left: 40%;
+    border: 1px solid rgb(202, 196, 196);
+}
+
+.inputs {
+    margin-left: 20px;
+    margin-top: 10%;
+    font-size: 20px;
+}
+
+form span {
+    margin-bottom: 20px;
+}
+
+input {
+    font-size: 15px;
+    width: 330px;
+    border: 1px rgb(202, 196, 196);
+    border-style: double;
+    margin-bottom: 20px;
+}
+
+.age {
+    padding-right: 0px;
+}
+
+.submit {
+    margin-left: 160px;
+}
+
+.results {
+    text-align: center;
+    font-size: 25px;
+}
+
+.email{
+    padding-left:0%,
+}
